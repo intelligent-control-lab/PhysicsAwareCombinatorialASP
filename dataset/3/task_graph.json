@@ -1,0 +1,604 @@
+{
+    "1": {
+        "brick_id": 10,
+        "x": 2,
+        "y": 8,
+        "z": 0,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "2": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 9,
+        "z": 0,
+        "ori": 1,
+        "press_side": 1,
+        "brick_seq": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "3": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 7,
+        "z": 0,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 2,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "4": {
+        "brick_id": 9,
+        "x": 0,
+        "y": 8,
+        "z": 0,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 3,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "5": {
+        "brick_id": 12,
+        "x": 0,
+        "y": 8,
+        "z": 1,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "6": {
+        "brick_id": 2,
+        "x": 0,
+        "y": 7,
+        "z": 2,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "7": {
+        "brick_id": 9,
+        "x": 0,
+        "y": 6,
+        "z": 2,
+        "ori": 1,
+        "press_side": 1,
+        "brick_seq": 4,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "8": {
+        "brick_id": 12,
+        "x": 0,
+        "y": 4,
+        "z": 2,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 2,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "9": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 10,
+        "z": 3,
+        "ori": 1,
+        "press_side": 1,
+        "brick_seq": 5,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "10": {
+        "brick_id": 3,
+        "x": 1,
+        "y": 4,
+        "z": 3,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "11": {
+        "brick_id": 10,
+        "x": 0,
+        "y": 10,
+        "z": 3,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 2,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "12": {
+        "brick_id": 9,
+        "x": 0,
+        "y": 8,
+        "z": 3,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 6,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "13": {
+        "brick_id": 5,
+        "x": 0,
+        "y": 4,
+        "z": 3,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 1,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "14": {
+        "brick_id": 10,
+        "x": 1,
+        "y": 10,
+        "z": 4,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 3,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "15": {
+        "brick_id": 5,
+        "x": 1,
+        "y": 4,
+        "z": 4,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 2,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "16": {
+        "brick_id": 12,
+        "x": 0,
+        "y": 8,
+        "z": 4,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 3,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "17": {
+        "brick_id": 10,
+        "x": 1,
+        "y": 9,
+        "z": 5,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 4,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "18": {
+        "brick_id": 10,
+        "x": 1,
+        "y": 5,
+        "z": 5,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 5,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "19": {
+        "brick_id": 9,
+        "x": 0,
+        "y": 8,
+        "z": 5,
+        "ori": 1,
+        "press_side": 1,
+        "brick_seq": 7,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "20": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 8,
+        "z": 6,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 8,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "21": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 4,
+        "z": 6,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 9,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "22": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 8,
+        "z": 7,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 10,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "23": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 4,
+        "z": 7,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 11,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "24": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 8,
+        "z": 8,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 12,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "25": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 8,
+        "z": 9,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 13,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "26": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 8,
+        "z": 10,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 14,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "27": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 0,
+        "z": 10,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 15,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "28": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 8,
+        "z": 11,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 16,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "29": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 0,
+        "z": 11,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 17,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "30": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 8,
+        "z": 12,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 18,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "31": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 0,
+        "z": 12,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 19,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "32": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 8,
+        "z": 13,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 20,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "33": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 0,
+        "z": 13,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 21,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "34": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 8,
+        "z": 14,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 22,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "35": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 0,
+        "z": 14,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 23,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "36": {
+        "brick_id": 10,
+        "x": 1,
+        "y": 8,
+        "z": 15,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 6,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "37": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 0,
+        "z": 15,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 24,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "38": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 7,
+        "z": 16,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 25,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "39": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 1,
+        "z": 16,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 26,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "40": {
+        "brick_id": 9,
+        "x": 1,
+        "y": 6,
+        "z": 17,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 27,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "41": {
+        "brick_id": 5,
+        "x": 1,
+        "y": 2,
+        "z": 17,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 3,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "42": {
+        "brick_id": 10,
+        "x": 1,
+        "y": 1,
+        "z": 17,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 7,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "43": {
+        "brick_id": 5,
+        "x": 1,
+        "y": 3,
+        "z": 18,
+        "ori": 0,
+        "press_side": 1,
+        "brick_seq": 4,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    }
+}
