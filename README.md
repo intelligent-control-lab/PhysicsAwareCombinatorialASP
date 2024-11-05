@@ -12,7 +12,7 @@ Given the 3D shape, the policy outputs a sequence of actions for placing unit pr
 Examples of planned assembly sequences are shown below.
 
 <p >
-	<img src="./images/asp.gif" alt="image" width="50%" height="auto" hspace=1>
+	<img src="./images/asp.gif" alt="image" width="90%" height="auto" hspace=1>
     <figcaption align="left"></figcaption>
 </p>
 
